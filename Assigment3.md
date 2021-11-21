@@ -1,0 +1,52 @@
+Peter J. Welling III
+Professor Brewer
+Assignment 3
+21 November 2021
+
+Data Science Models Within Straw Utilization
+Around the world there is a growing concern for the actions that are being done in China. The problem of concern is Straw Utilization in China and the harmful effects it has on the environment. With China expanding their agriculture sector and now being the largest producer of wheat in the world, there is a major responsibility to alter the extermination of their remaining crops in an alternative fashion. There are many issues that are a result of this process, but also future solutions to help assist in damage that has been created to the environment and human development.
+The problem of straw burning has many salient harms on the environment and on human development. During harvest seasons in China, farmers tend to burn off their remaining crops due to opportunity cost reasons. Since this is the way the crops are exterminated, it creates a major climate problem. According to “Emission Characterization, environmental impact, and control measure of PM^2.5 emmited from agriculture crop residue burning in China” the harmful toxins of ethene, ethyne, propene, benzene, ethane, toluene, propane, alpha-pinene and 1-butene have all increased to significant levels that are dangerous and risk the result of climate change and poor health quality. Another harm that is a result from the burning of straw in fields is that it causes significant health problems. According to a study done by Wangyang Lai, et al, the impact of air pollution has an effect on cognitive health in China. The study was conducted by linking households with PM^2.5 emissions taken from data on fire activity. In the Study, the wind direction played a major role in the cognitive test scores that were recorded. It found that upwind straw burning had a negative effect on people aged fifty-five and above and affected cognitive test scores by about .04 deviations. With these findings it was concluded that serious implications would follow. Taking the harms into account the question that arises is, what are alternatives to straw utilization inorder to protect the environment and citizens in surrounding areas? The data science methods have been used to describe the harms of burning straw and creates the question of alternative use. Much of the research that was conducted analyzes the harms of environmental effects and cognitive effects which then creates the question of what alternatives must be conducted instead.
+Connecting these findings on the utilization of straw burning, there are many data science methods used inorder to illustrate the data in a powerful and innovative way. For example, in the article “Straw Utilization in China '' it displays many tables and graphs, which show an understanding of the information being discussed about. In table one, it shows the energy utilization of straw as biofuel. In the graph, it shows predictive modeling by using scenarios of straw use and the percentage of what is converted to biofuel energy. Further explaining what the outcomes would be on the environment when different percentages of straw are being burned or being utilized in a different way. Another method used is a graphic representation of daily averages of PM^2.5 in major cities of China. In the article “Controlling Air Pollution from Straw Burning in China Calls for Efficient Recycling” the graphic model that is represented shows the daily averages of PM^2.5 concentration in the cities of Nanjing, Yangzhou, Zhenjiang and Taizhou. From the dates 5/20 to 6/11 there was a steady increase in the amount of PM^2.5 in the air for all four cities. From the dates of 6/12 to 6/23 the amount had declined steadily across all four cities. This represents that once the harvest is concluded the air quality gets significantly worse than inseason harvesting. In both data science methods, the authors used secondary data because it was recorded and used for future research purposes. In the article “Straw Utilization in China '' in figure one, the data is taken from a 2015 annuel anthropogenic emissions data from Zheng, B et. al. In the graphic model from “Controlling Air Pollution from Straw Burning in China Calls for Efficient Recycling” the data is taken from the Department of Biology and Chemistry and State Key Laboratory in Marine Pollution, City University of Hong Kong. Along with both data methods using secondary sources, their data also has a temporal dimension. The reason is because the data was collected and stored in relation to time, for example in graphic model from “Controlling Air Pollution from Straw Burning in China Calls for Efficient Recycling” the data collected for the PM^2.5 levels are graphic and organized in relation to the date where it was recording, exemplifying temporal dimensions. The data taken from both articles are very reliable and validated as they were taken from previous university department studies and recent past experiments where the data was collected and now used for future research purposes. 
+
+Table 1. Energy benefit of using straw instead of open field burning in 2020. From “Straw Utilization in China-Status and Recommendations”
+Scenario
+Baseline
+Scenario 1
+Scenario 2
+Percentage of Straw Use
+69%
+69%
+69%
+Straw Converted to Biomass Energy
+11%
+16%
+21%
+Percentage of Total Use
+80%
+85%
+90%
+Percentage Open Burning
+15%
+10%
+5%
+
+
+The data science methods from the two articles are significant to describing the data as well as having a major role in the articles. The two data science methods in their respective articles help to visualize the data that is being collected in charts and graphs so that it can be interpreted easily and more efficiently. Using their data, the authors were able to input the information in models and graphs to specify their statistical data. It provided a format to the reader that allows them to visualize the problem, analyze the data recorded and view it, rather than interpret the information on their own from what the author was trying to convey. In the article “Straw Utilization in China” there are variables in the data model. The models depict hypothetical scenarios on what the emissions output would be for different levels of straw use, so the variables in this instance is the hypothetical aspect as there are numerous examples given in the model. In the article “Controlling Air Pollution from Straw Burning in China Calls for Efficient Recycling” the variable is the daily average concentration of PM^2.5. This is because that data can be changed due to environmental factors and farmers actions in regard to straw use. Looking at both data methods, one of the models is an improvement over the other in terms of addressing a research gap. The model from the article “Straw Utilization in China” which illustrates hypothetical scenarios is an improvement in addressing research gaps in the literature. The model helps address the gap of what the outcomes would be if the utilization was adjusted. It shows that if straw was used in a more eco-friendly way, the environment would drastically improve. Since the issue is continuing and solutions are being investigated and slowly implemented, the effects are not seen yet and this is why the model is so important in addressing what the outcome could be. Using the two data methods together, they help to address a more detailed aspect of the research focus. Each model illustrates different forms of information within the same topic and are used as complements to solve the problem being addressed. The model that uses the hypothetical situations allows the reader to understand what the improved PM^2.5 air quality levels would be from the graph in “Controlling Air Pollution From Straw Burning in China Calls for Efficient Recycling” as that graph shows the high levels of PM^2.5 levels in various cities in China.
+Analyzing the two articles, there are many findings where the models are used as support. In the article “Straw Utilization in China” and “Controlling Air Pollution from Straw Burning in China Calls for Efficient Recycling” it found that there is in fact technology that can be used inorder to limit the damage that has been created. It also found many obstacles that stand in the way of long term government support, feedback mechanisms from farmers and a lack of infrastructure and logistics to support the complex operation of straw collection. This relates to the data model because if those obstacles were addressed the scenarios list out the improved effects that would come with it. These findings contribute to answering the research question of what alternatives could be taken in order to limit the damage that has been done from straw burning. The model that illustrates the hypothetical scenarios is important to the development of this issue. It is able to forecast future conditions contingent on the solutions that would be implemented to address the issue. These models are also validated by the author because it was evaluated operationally by determining if model output agrees with the data and conceptually by determining whether the theory and assumptions underlying the model are justifiable. 
+Analyzing the research topic and taking into account the information in the articles there is still a need for further consideration in some areas. One area that has been neglected is the understanding of incentivising the farmers to start to alter their actions for future adoption. The reason why they continue to burn off the straw is because of opportunity cost. The data models help to understand why the problem must be addressed and the future outcomes on what would happen if solutions were implemented but they fail to say what the solutions are and where to start implementing them. 
+
+
+
+
+
+
+
+
+
+
+
+Citations:
+Ren, Jiqin, et al. “Straw Utilization in China - Status and Recommendations.” Sustainability, 23 March 2019
+Qu, Changsheng, et al. “Controlling Air Pollution from Straw Burning in China Calls for Efficient Recycling.” ACS Publications, 23 July 2012
+Zhang, Hefeng, et al. “Emission Characterization, Environmental Impact, and Control Measure of Pm2.5 Emitted from Agricultural Crop Residue Burning in China.” Journal of Cleaner Production, 12 February 2017 
+Lai, Wangyang, et al. “Air Pollution and Cognitive Functions: Evidence from Straw Burning in China.” Wiley Online Library, John Wiley & Sons, Ltd, 24 May 2021, https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12225. 

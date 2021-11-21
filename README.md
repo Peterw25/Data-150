@@ -31,3 +31,5 @@
 [Response 13](Response13.html)
 
 [Response 14](Response14.html)
+
+[Formal Response 3](Assignment3.html)
